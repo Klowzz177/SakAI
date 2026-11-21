@@ -1,0 +1,3 @@
+cd sakai-main
+npm install
+npm run web
